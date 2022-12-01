@@ -1,0 +1,4 @@
+Name Zhandaulet
+Password K@las1975
+Balance 50000
+Статус пользователь
